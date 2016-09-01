@@ -5,6 +5,8 @@ and, from your terminal, run:
 python tournament_test.py
 ```
 
+Python version should be Python 2.
+
 The schema is defined in the tournament.sql file and the Python code is in
 tournament.py.
 
